@@ -72,15 +72,7 @@ Full-stack developer with hands-on production experience across React, React Nat
 
 ---
 
-## Education
 
-| Program | Institution | Status |
-|---|---|---|
-| ADP Computer Science | Riphah International University | In Progress — 1st Semester CGPA: 3.47, 2nd Semester in progress |
-| Intermediate (ICS) | KIPS College | 771 marks |
-| Matriculation | Modern Public High School | 801 marks |
-
----
 
 ## Languages
 
